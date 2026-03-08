@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="WSDA_Music.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="4026"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Customer" custom_title="0" dock_id="1" table="4,8:mainCustomer"/><dock_state state="000000ff00000000fd00000001000000020000043c000002bcfc0100000001fb000000160064006f0063006b00420072006f007700730065003101000000000000043c0000015c00ffffff0000043c0000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Album" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="56"/><column index="2" value="280"/><column index="3" value="53"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Artist" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="51"/><column index="2" value="179"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Customer" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="78"/><column index="3" value="101"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="156"/><column index="7" value="54"/><column index="8" value="117"/><column index="9" value="85"/><column index="10" value="156"/><column index="11" value="148"/><column index="12" value="234"/><column index="13" value="88"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Employee" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="74"/><column index="2" value="70"/><column index="3" value="70"/><column index="4" value="156"/><column index="5" value="67"/><column index="6" value="156"/><column index="7" value="156"/><column index="8" value="218"/><column index="9" value="85"/><column index="10" value="38"/><column index="11" value="54"/><column index="12" value="70"/><column index="13" value="140"/><column index="14" value="140"/><column index="15" value="195"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Genre" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="54"/><column index="2" value="148"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Invoice" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="62"/><column index="2" value="76"/><column index="3" value="156"/><column index="4" value="300"/><column index="5" value="156"/><column index="6" value="72"/><column index="7" value="117"/><column index="8" value="105"/><column index="9" value="62"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="InvoiceLine" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="85"/><column index="2" value="64"/><column index="3" value="53"/><column index="4" value="59"/><column index="5" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MediaType" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="80"/><column index="2" value="218"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Playlist" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="61"/><column index="2" value="210"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PlaylistTrack" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="63"/><column index="2" value="53"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Track" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="51"/><column index="2" value="195"/><column index="3" value="58"/><column index="4" value="83"/><column index="5" value="56"/><column index="6" value="241"/><column index="7" value="76"/><column index="8" value="85"/><column index="9" value="59"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Invoice Data Validation">/*	Query: Invoice Data Integrity Check
+	Business Question: Are there invoices with zero or negative transaction values?
+	Technique: Simple validation query used for identifying data quality issues.
+*/
+SELECT InvoiceId
+FROM Invoice
+WHERE Total &lt;= 0;
+</sql><sql name="MoM Revenue Growth">/*	Query: Monthly Revenue Month-over-Month Growth
+	Business Question: How is total revenue trending over time and what is the monthly growth rate?
+	Technique: Uses a CTE and LAG() window function to compare revenue with the previous month.
+*/
+WITH monthly_revenue AS (
+    SELECT 
+        strftime('%Y-%m', InvoiceDate) AS Month,
+        SUM(Total) AS Revenue
+    FROM Invoice
+    GROUP BY Month
+)
+
+SELECT
+    Month,
+    Revenue,
+    LAG(Revenue) OVER (ORDER BY Month) AS Prev_Revenue,
+    ROUND(
+        (Revenue - LAG(Revenue) OVER (ORDER BY Month)) 
+        * 100.0 / LAG(Revenue) OVER (ORDER BY Month),
+        2
+    ) AS MoM_Growth_Percent
+FROM monthly_revenue;
+</sql><sql name="Customer Revenue Ranking*">/*	Query: Customer Lifetime Revenue Ranking
+	Business Question: Which customers generate the highest lifetime revenue?
+	Technique: Aggregates invoice totals per customer and ranks them using a window function.
+*/
+SELECT
+	c.CustomerId, 
+	c.FirstName|| ' ' || c.LastName AS Customer,
+	SUM(i.Total) as &quot;Lifetime Revenue&quot;,
+	RANK() OVER (ORDER BY SUM(i.Total) DESC) AS Revenue_Rank
+FROM Customer c
+JOIN Invoice i
+ON c.CustomerId = i.CustomerId
+GROUP BY c.CustomerId
+ORDER BY SUM(i.Total) DESC</sql><sql name="Customer_Revenue_Tiering_Model">/*	Query: Customer Revenue Segmentation
+	Business Question: How can customers be segmented based on their lifetime revenue?
+	Technique: Uses CASE statements to classify customers into value tiers.
+*/
+SELECT 
+	CustomerId,
+	sum(Total) AS &quot;Lifetime Revenue&quot;,
+	CASE
+		WHEN sum(Total)&gt;= 40 THEN &quot;High Value&quot;
+		WHEN sum(Total) BETWEEN 20 AND 39 THEN &quot;Medium Value&quot;
+		ELSE &quot;Low Value&quot;
+	END AS &quot;Customer Segment&quot;
+FROM Invoice
+GROUP BY CustomerId
+ORDER BY &quot;Lifetime Revenue&quot; DESC;</sql><sql name="Above Average Spenders">/*	Query: Above-Average Customer Spending
+	Business Question: Which customers spend more than the average customer?
+	Technique: Uses nested aggregation to compare customer spending against the global average.
+*/
+WITH avg_spend AS (
+    SELECT AVG(customer_total) AS avg_value
+    FROM (
+        SELECT SUM(Total) AS customer_total
+        FROM Invoice
+        GROUP BY CustomerId
+		HAVING CustomerId != 60
+    )
+)
+
+SELECT 
+    CustomerId,
+    SUM(Total) AS Total_Spent
+FROM Invoice
+GROUP BY CustomerId
+HAVING Total_Spent &gt; (SELECT avg_value FROM avg_spend);
+</sql><sql name="Customer Retention &amp; Churn Risk">/*	Query: Dormant Customer Identification
+	Business Question: Which customers have not made a purchase in the last 6 months?
+	Technique: Uses a CTE to calculate each customer's last purchase date and filters inactive customers.
+*/
+WITH last_purchase AS (
+    SELECT 
+        CustomerId,
+        MAX(InvoiceDate) AS Last_Invoice_Date
+    FROM Invoice
+    GROUP BY CustomerId
+)
+SELECT 
+    c.CustomerId,
+    c.FirstName || ' ' || c.LastName AS Customer,
+    lp.Last_Invoice_Date
+FROM Customer c
+JOIN last_purchase lp USING (CustomerId)
+WHERE lp.Last_Invoice_Date &lt; (
+    SELECT DATE(MAX(InvoiceDate), '-6 months') FROM Invoice
+);
+</sql><sql name="Inactive Customers Analysis">/*	Query: Non-Purchasing Registered Customers
+	Business Question: Which customers are registered in the system but have never made a purchase?
+	Technique: Uses a NOT EXISTS anti-join to find customers without matching records in the Invoice table.
+*/
+SELECT CustomerId
+FROM Customer c
+WHERE NOT EXISTS (
+    SELECT 1 
+    FROM Invoice i 
+    WHERE i.CustomerId = c.CustomerId
+);
+</sql><sql name="Product Bundling Opportunity">/*	Query: Frequently Purchased Track Pairs
+	Business Question: Which pairs of tracks are commonly purchased together?
+	Technique: Self-join on invoice lines to identify co-purchased tracks within the same transaction.
+*/
+SELECT 
+    il1.TrackId AS Track_1,
+    il2.TrackId AS Track_2,
+    COUNT(*) AS Frequency
+FROM InvoiceLine il1
+JOIN InvoiceLine il2 
+    ON il1.InvoiceId = il2.InvoiceId 
+   AND il1.TrackId &lt; il2.TrackId
+GROUP BY Track_1, Track_2
+ORDER BY Frequency DESC
+LIMIT 10;
+</sql><sql name="Artist Revenue Efficiency">/*	Query: Artist Revenue Efficiency
+	Business Question: Which artists generate the highest revenue per track?
+	Technique: Combines artist, album, track, and sales data to calculate revenue per track.
+*/
+SELECT
+	ar.Name AS Artist,
+	count(distinct t.TrackId) AS Tracks,
+	sum(il.UnitPrice*il.Quantity) AS Renvenue,
+	round(sum(il.UnitPrice*il.Quantity)/count(distinct t.TrackId),2) AS &quot;Revenue Per Track&quot;
+FROM Artist ar
+JOIN Album al USING (ArtistId)
+JOIN Track t USING (AlbumId)
+JOIN InvoiceLine il USING (TrackId)
+GROUP BY ar.ArtistId
+ORDER BY &quot;Revenue Per Track&quot; DESC;</sql><sql name="Geographic Expansion Strategy">/*	Query: Country Order Behavior Analysis
+	Business Question: Which countries have lower order counts but higher average order value?
+	Technique: Groups invoices by country and filters countries with fewer transactions.
+*/
+SELECT 
+    BillingCountry,
+    COUNT(InvoiceId) AS Orders,
+    AVG(Total) AS &quot;Avg Order Value&quot;
+FROM Invoice
+GROUP BY BillingCountry
+HAVING Orders &lt; 20
+ORDER BY &quot;Avg Order Value&quot; DESC;
+</sql><sql name="Revenue Concentration Risk">/*	Query: Revenue Contribution of Top Customers
+	Business Question: How much revenue is generated by the top 10 highest-spending customers?
+	Technique: Uses a CTE to calculate customer revenue, then aggregates the revenue of the top customers.
+*/
+WITH customer_revenue AS (
+    SELECT 
+        CustomerId,
+        SUM(Total) AS Revenue
+    FROM Invoice
+    GROUP BY CustomerId
+    ORDER BY Revenue DESC
+    LIMIT 10
+)
+
+SELECT 
+    COUNT(*) AS Top_Customers,
+    SUM(Revenue) AS Top_Revenue
+FROM customer_revenue;
+</sql><current_tab id="2"/></tab_sql></sqlb_project>
