@@ -43,23 +43,15 @@ This project applies several important SQL concepts used in real-world analytics
 
 ## Project Structure
 wsda-music-sql-analysis
-│
-├── data
-│ └── WSDA_Music.db
-│
-├── sql
-│ └── music_store_business_analysis.sql
-│
-├── project_environment
-│ └── WSDA_Music.sqbpro
-│
-└── README.md
 
 **data/**  
 Contains the SQLite database used for the analysis.
 
 **sql/**  
 Contains all SQL queries used to perform the business analysis.
+
+**results/**  
+Contains all outputs of the SQL queries.
 
 **project_environment/**  
 The DB Browser project file that stores the development environment.
@@ -92,7 +84,8 @@ Measures revenue generated per track for each artist.
 
 Below is an example of the customer lifetime revenue ranking generated from the SQL analysis.
 
-![Customer Revenue Ranking](results/query_outputs.png)
+<img width="1920" height="1080" alt="Customer Revenue Ranking" src="https://github.com/user-attachments/assets/1db357d2-e210-427b-942b-7d423e9d991e" />
+
 
 ---
 
